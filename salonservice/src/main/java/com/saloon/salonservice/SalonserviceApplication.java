@@ -8,6 +8,7 @@ public class SalonserviceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SalonserviceApplication.class, args);
+		System.out.println("hi");
 	}
 
 }
